@@ -1,7 +1,7 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "你好",
+  "operate_system": "操作系统",
+  "technical_english": "科技英语",
   "about": {
     "title": "About",
     "type": "page"
@@ -9,7 +9,7 @@
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://dreamskycx.github.io",
     "newWindow": true
   }
 }
